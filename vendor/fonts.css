@@ -5,6 +5,8 @@
   src: url("./fonts/Inter-Regular.woff2") format("woff2");
 }
 
+/* Комментарий */
+
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
